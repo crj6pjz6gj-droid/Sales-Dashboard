@@ -15,15 +15,15 @@ DAX: Measures and KPI calculations
 Data modelling: Table relationships and date tables
 Data storytelling: Communicating findings through visualisations
 
-Data Preparation
+Data Preparation :
 Describe the dataset, data source, cleaning steps, data types and transformations performed.
 
-Key Performance Indicators
-Total Revenue
-Total Profit
-Profit Margin
-Sales Growth
-Sales by Region and Product Category
+Key Performance Indicators :
+  *Total Revenue
+  *Total Profit
+  *Profit Margin
+  *Sales Growth
+  *Sales by Region and Product Category
 
 Key Findings
 
