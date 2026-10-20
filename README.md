@@ -19,11 +19,11 @@ Data Preparation :
 Describe the dataset, data source, cleaning steps, data types and transformations performed.
 
 Key Performance Indicators :
-  *Total Revenue
-  *Total Profit
-  *Profit Margin
-  *Sales Growth
-  *Sales by Region and Product Category
+  * Total Revenue
+  * Total Profit
+  * Profit Margin
+  * Sales Growth
+  * Sales by Region and Product Category
 
 Key Findings
 
