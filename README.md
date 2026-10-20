@@ -1,14 +1,14 @@
 # Sales Performance Analysis
 An interactive Power BI dashboard designed to analyse sales performance, profitability and regional trends, supporting data-driven business decisions.
 
-Business Objectives
+Business Objectives :
 
  * Identify the highest-performing products and regions.
  * Analyse revenue and profit trends over time.
  * Compare sales performance across product categories.
  * Identify opportunities to improve profitability.
 
-Tools and Skills
+Tools and Skills :
  * Power BI: Dashboard development and data visualisation
  * Power Query: Data cleaning and transformation
  * DAX: Measures and KPI calculations
@@ -25,15 +25,15 @@ Key Performance Indicators :
   * Sales Growth
   * Sales by Region and Product Category
 
-Key Findings
+Key Findings :
 
 *Add three to five evidence-based findings from your completed analysis, supported by figures and visualisations.*
 
-Dashboard Preview
+Dashboard Preview :
 
 *Insert screenshots of the completed report pages here.*
 
-Limitations and Further Development
+Limitations and Further Development :
 
 *Explain any data limitations and identify improvements you would make in a future version.*
 
